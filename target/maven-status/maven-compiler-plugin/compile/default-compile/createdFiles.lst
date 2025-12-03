@@ -1,0 +1,3 @@
+com/example/ecom/notification/listener/NotificationListener.class
+com/example/ecom/notification/config/RabbitMQConfig.class
+com/example/ecom/notification/NotificationServiceApplication.class

@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: notification-service
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          jwk-set-uri: http://keycloak:8180/realms/ecom-realm/protocol/openid-connect/certs

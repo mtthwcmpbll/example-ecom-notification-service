@@ -1,0 +1,3 @@
+/Users/matt/workspaces/model-spring-upgrade/notification-service/src/main/java/com/example/ecom/notification/NotificationServiceApplication.java
+/Users/matt/workspaces/model-spring-upgrade/notification-service/src/main/java/com/example/ecom/notification/listener/NotificationListener.java
+/Users/matt/workspaces/model-spring-upgrade/notification-service/src/main/java/com/example/ecom/notification/config/RabbitMQConfig.java
